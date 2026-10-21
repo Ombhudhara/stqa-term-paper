@@ -1,0 +1,8 @@
+metric,paired_runs,random_mean,random_median,random_std,random_min,random_max,random_ci95_low,random_ci95_high,ai_guided_mean,ai_guided_median,ai_guided_std,ai_guided_min,ai_guided_max,ai_guided_ci95_low,ai_guided_ci95_high,mean_difference_ai_minus_random,paired_permutation_p_value,comparison_method
+buggy_line_coverage_pct,1,69.6969696969697,69.6969696969697,0.0,69.6969696969697,69.6969696969697,,,69.6969696969697,69.6969696969697,0.0,69.6969696969697,69.6969696969697,,,0.0,1.0,two-sided exact paired sign-flip permutation test
+buggy_branch_coverage_pct,1,50.0,50.0,0.0,50.0,50.0,,,50.0,50.0,0.0,50.0,50.0,,,0.0,1.0,two-sided exact paired sign-flip permutation test
+fault_exposing_inputs,1,1.0,1.0,0.0,1.0,1.0,,,0.0,0.0,0.0,0.0,0.0,,,-1.0,1.0,two-sided exact paired sign-flip permutation test
+fault_exposure_rate,1,0.1,0.1,0.0,0.1,0.1,,,0.0,0.0,0.0,0.0,0.0,,,-0.1,1.0,two-sided exact paired sign-flip permutation test
+generation_overhead_seconds,1,0.022555499999725726,0.022555499999725726,0.0,0.022555499999725726,0.022555499999725726,,,0.0017366999945807038,0.0017366999945807038,0.0,0.0017366999945807038,0.0017366999945807038,,,-0.02081880000514502,1.0,two-sided exact paired sign-flip permutation test
+target_execution_seconds,1,0.0516033999992942,0.0516033999992942,0.0,0.0516033999992942,0.0516033999992942,,,0.0839380999932473,0.0839380999932473,0.0,0.0839380999932473,0.0839380999932473,,,0.03233469999395311,1.0,two-sided exact paired sign-flip permutation test
+total_wall_clock_seconds,1,11.754292499999792,11.754292499999792,0.0,11.754292499999792,11.754292499999792,,,12.520719199999803,12.520719199999803,0.0,12.520719199999803,12.520719199999803,,,0.7664267000000109,1.0,two-sided exact paired sign-flip permutation test

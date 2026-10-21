@@ -1,0 +1,3 @@
+method,run,seed,evaluation_inputs,fault_exposing_inputs,fault_exposure_rate,distinct_faults_detected,detected_fault_ids
+ai_guided,1,20261021,5,0,0.0,0,
+random,1,20261021,5,0,0.0,0,
