@@ -1,3 +1,0 @@
-method,run,seed,evaluation_inputs,target_executions,target_exception_inputs,fault_exposing_inputs,fault_exposure_rate,distinct_faults_detected,generation_overhead_seconds,target_execution_seconds,total_wall_clock_seconds,buggy_line_coverage_pct,buggy_branch_coverage_pct,buggy_lines_covered,buggy_lines_total,fixed_line_coverage_pct,fixed_branch_coverage_pct
-ai_guided,1,20261021,10,20,0,0,0.0,0,0.0017366999945807038,0.0839380999932473,12.520719199999803,69.6969696969697,50.0,23,33,69.6969696969697,50.0
-random,1,20261021,10,20,0,1,0.1,1,0.022555499999725726,0.0516033999992942,11.754292499999792,69.6969696969697,50.0,23,33,69.6969696969697,50.0

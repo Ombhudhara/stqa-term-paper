@@ -1,3 +1,0 @@
-budget,method,runs,fault_exposing_inputs_mean,fault_exposing_inputs_std,fault_exposure_rate_mean,fault_exposure_rate_std,buggy_line_coverage_pct_mean,buggy_line_coverage_pct_std,buggy_branch_coverage_pct_mean,buggy_branch_coverage_pct_std,generation_overhead_seconds_mean,generation_overhead_seconds_std,target_execution_seconds_mean,target_execution_seconds_std,total_wall_clock_seconds_mean,total_wall_clock_seconds_std
-10,random,1,1.0,0.0,0.1,0.0,69.6969696969697,0.0,50.0,0.0,0.022555499999725726,0.0,0.0516033999992942,0.0,11.754292499999792,0.0
-10,ai_guided,1,0.0,0.0,0.0,0.0,69.6969696969697,0.0,50.0,0.0,0.0017366999945807038,0.0,0.0839380999932473,0.0,12.520719199999803,0.0
