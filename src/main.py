@@ -9,6 +9,7 @@ import time
 from pathlib import Path
 
 from .ai_guided_testing import GeneticInputGenerator
+# pyrefly: ignore[missing-import]
 from .coverage_analysis import generate_architecture_diagram, write_outputs
 from .random_testing import RandomInputGenerator, input_from_candidate
 from .target_worker import TargetWorker
